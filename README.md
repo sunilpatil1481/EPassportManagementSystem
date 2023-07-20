@@ -3,7 +3,7 @@ This repository consists of all the webpages and servlets and jsp files required
 
 All the webapages are responsive on any kind of devices like android IPAds and desktops.
 
-Technologies Used for front end--HTML CSS Bootstap
+Technologies Used for front end--HTML CSS Bootstrap
 
 Technologies Used for back end--java servlets and My sql
 
