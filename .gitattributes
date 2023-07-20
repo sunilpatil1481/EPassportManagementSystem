@@ -1,0 +1,5 @@
+*.css linguist-detectable=true  
+*.bootstrap linguist-detectable=true  
+*.java-servlet linguist-detectable=true  
+*.html linguist-detectable=true  
+*.mysql linguist-detectable=true    
